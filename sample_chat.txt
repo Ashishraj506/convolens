@@ -1,0 +1,688 @@
+3/12/26, 11:56 AM - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+3/3/26, 11:57 AM - ~ Harsh Rao created group "K23RQ big data"
+3/12/26, 11:56 AM - Shiva MB added you
+3/12/26, 11:57 AM - ~ Amal Krishna added Abhishek 1sem
+3/12/26, 4:29 PM - Satyam Pep: I think it's 19th not 18th
+3/15/26, 7:55 PM - ~ Raja Kumar added Adarsh Clg
+3/16/26, 7:59 PM - Adarsh Clg added +91 95984 28803
+3/18/26, 9:17 PM - Shivyanshu clg: Kal v ma'am leave pe h kya ???
+3/18/26, 9:18 PM - +91 95766 32090: Hn
+3/18/26, 9:18 PM - +91 87098 47569: <Media omitted>
+3/24/26, 11:04 AM - +91 96790 09511: Dear students,
+Timetable is changed
+Check your new timetable and follow the same.
+3/24/26, 12:57 PM - ~ Ansh Kumar added +91 62042 57301
+3/25/26, 3:38 PM - +91 96790 09511: Dear Students,
+
+This is to inform you that makeup classes for *Section RQ* have been scheduled as follows:
+
+*28th March, Saturday, from 1:40 PM to 3:20 PM in Room No. 29-403*
+
+*4th April, Saturday, from 10:20 AM to 12:00 PM in Room No. 29-403*
+
+Please make sure to attend the classes on time.
+
+Thank you.
+3/28/26, 1:36 PM - ~ 🐾🐾 added +91 98013 94456
+3/28/26, 2:09 PM - +91 82193 65945: <Media omitted>
+3/30/26, 12:06 AM - Satyam Pep: <Media omitted>
+3/30/26, 12:08 AM - +91 91742 36575: 👍🏼
+3/31/26, 11:21 AM - +91 87873 09401: <?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+  <property>
+    <name>mapreduce.framework.name</name>
+    <value>yarn</value>
+  </property>
+
+  <property>
+    <name>yarn.app.mapreduce.am.env</name>
+    <value>HADOOP_MAPRED_HOME=/opt/homebrew/Cellar/hadoop/3.4.3/libexec</value>
+  </property>
+
+  <property>
+    <name>mapreduce.map.env</name>
+    <value>HADOOP_MAPRED_HOME=/opt/homebrew/Cellar/hadoop/3.4.3/libexec</value>
+  </property>
+
+  <property>
+    <name>mapreduce.reduce.env</name>
+    <value>HADOOP_MAPRED_HOME=/opt/homebrew/Cellar/hadoop/3.4.3/libexec</value>
+  </property>
+
+</configuration> <This message was edited>
+3/31/26, 11:53 AM - +91 63931 39374: <Media omitted>
+4/2/26, 1:33 PM - +91 96790 09511: Does anyone have PEP classes on Saturday from 11 to 12?
+4/2/26, 1:38 PM - +91 83186 36732: Mine 9 to 11
+4/2/26, 1:39 PM - +91 70132 00796: Mine 10 to 12
+4/2/26, 1:39 PM - +91 93460 48291: 10 to 12
+4/2/26, 1:39 PM - +91 96790 09511: We have makeup classes on Saturday of big data from 10:20 onwards <This message was edited>
+4/2/26, 1:39 PM - +91 96790 09511: Till 12
+4/2/26, 1:41 PM - Shiva MB: I have class class from 10 to 12
+4/2/26, 1:41 PM - +91 96790 09511: Haan that’s what
+4/2/26, 1:42 PM - +91 70014 81880: Improvement start ho raha bohut student ka us din se
+4/2/26, 1:42 PM - +91 96790 09511: <Media omitted>
+4/2/26, 1:42 PM - +91 96790 09511: Should we ask maam to make changes in the timings ? <This message was edited>
+4/2/26, 1:43 PM - +91 78890 46878: Of course
+4/2/26, 1:43 PM - +91 97096 78176: I have also class from 9-11 on Saturday
+4/2/26, 1:43 PM - +91 76204 86926: Yes we should
+4/2/26, 1:43 PM - +91 96790 09511: Okay I’ll convey your message
+4/2/26, 1:46 PM - +91 90052 04778: I have reappear after 1 pm so tell mam adjust accordingly
+4/2/26, 1:46 PM - +91 96790 09511: U will get the dL
+4/2/26, 1:47 PM - +91 90052 04778: Okk than
+4/2/26, 1:47 PM - +91 96790 09511: Till when
+4/2/26, 1:47 PM - +91 90052 04778: Till 3:30
+4/2/26, 1:50 PM - +91 96790 09511: Are you all okay with 1:40 pm onwards except for reappearing  students <This message was edited>
+4/2/26, 2:28 PM - +91 78767 09483: No
+4/2/26, 2:28 PM - +91 77750 18550: No
+4/2/26, 2:28 PM - +91 98777 51979: Nooo
+4/2/26, 2:28 PM - +91 82193 65945: No
+4/2/26, 2:28 PM - +91 76204 86926: NO
+4/2/26, 2:29 PM - +91 97096 78176: No
+4/2/26, 2:29 PM - +91 92190 40025: No
+4/2/26, 2:31 PM - +91 82193 65945: 10:20 to 12:00 is fine
+4/2/26, 2:31 PM - +91 98777 51979: Yess
+4/2/26, 2:31 PM - +91 78767 09483: Yes
+4/2/26, 2:31 PM - +91 77750 18550: Yes
+4/2/26, 2:31 PM - +91 76204 86926: No
+4/2/26, 2:31 PM - +91 97096 78176: Yes
+4/2/26, 2:31 PM - +91 82193 65945: <Media omitted>
+4/2/26, 2:32 PM - +91 77750 18550: <Media omitted>
+4/2/26, 2:32 PM - +91 76204 86926: <Media omitted>
+4/2/26, 2:33 PM - +91 76204 86926: This message was deleted
+4/2/26, 2:33 PM - +91 98777 51979: <Media omitted>
+4/2/26, 2:33 PM - +91 82193 65945: <Media omitted>
+4/2/26, 2:33 PM - +91 77750 18550: <Media omitted>
+4/2/26, 2:33 PM - +91 76204 86926: <Media omitted>
+4/2/26, 2:34 PM - +91 82193 65945: <Media omitted>
+4/2/26, 2:34 PM - +91 82193 65945: <Media omitted>
+4/2/26, 2:34 PM - +91 97096 78176: <Media omitted>
+4/2/26, 2:34 PM - +91 70995 71167: 12-1  pep class
+4/2/26, 2:34 PM - +91 92190 40025: <Media omitted>
+4/2/26, 2:35 PM - +91 78890 46878: <Media omitted>
+4/2/26, 2:35 PM - +91 62042 57301: <Media omitted>
+4/2/26, 2:37 PM - +91 76204 86926: <Media omitted>
+4/2/26, 2:58 PM - +91 79733 27885: No
+4/2/26, 2:59 PM - +91 96790 09511: I have pep classes from 11-1 and other have pep classes from 10-12
+4/2/26, 2:59 PM - +91 96790 09511: Or can we reschedule to some other dates ?
+4/2/26, 3:03 PM - +91 96790 09511: Okay then I’ll tell maam to keep the same timing if everyone’s okay with it 10:20
+4/2/26, 3:03 PM - +91 77750 18550: Yess
+4/2/26, 3:04 PM - Shiva MB: No I have pep class from 11 to 1
+4/2/26, 3:04 PM - +91 77750 18550: Online??
+4/2/26, 3:05 PM - +91 96790 09511: No offline classes
+4/2/26, 3:05 PM - +91 96790 09511: I too have
+4/2/26, 3:05 PM - Shiva MB: Offline
+4/2/26, 3:40 PM - +91 97815 71960: Yes
+4/2/26, 3:54 PM - +91 96790 09511: Array maam puch rhi hai
+4/2/26, 3:54 PM - +91 96790 09511: Kya krna hai
+4/2/26, 3:54 PM - +91 96790 09511: 😭😭
+4/2/26, 3:54 PM - +91 92629 79762: Cancel ka option nahi hai kiya
+4/2/26, 3:54 PM - +91 92190 40025: Exempt wala option h kya
+4/2/26, 3:54 PM - +91 63931 39374: Mam ko bolo iss Saturday class mt rkhe
+4/2/26, 3:54 PM - +91 96790 09511: 😆😆😭😭
+4/2/26, 3:55 PM - +91 96790 09511: Wahi mei boli
+4/2/26, 3:55 PM - +91 70014 81880: Bolo kisi aur date karde
+4/2/26, 3:55 PM - +91 96790 09511: Owkayyyy guysss
+4/2/26, 3:55 PM - +91 70014 81880: Avi kisika class to kisika exam hei
+4/2/26, 3:55 PM - +91 63931 39374: Weekdays me rkhle agle week
+4/2/26, 3:56 PM - +91 96790 09511: Tuesday ? Sirf do classes hai
+4/2/26, 3:57 PM - +91 63931 39374: Usi din bol do 4  class lgane  ko <This message was edited>
+4/2/26, 3:57 PM - Satyam Pep: On Tuesday, do we have CA? <This message was edited>
+4/2/26, 3:57 PM - +91 70995 71167: Wednesday CA hei <This message was edited>
+4/2/26, 3:58 PM - +91 63931 39374: Thursday h
+4/2/26, 3:58 PM - +91 70014 81880: Thursday hei
+4/2/26, 3:58 PM - +91 70995 71167: Wednesday combinatorial ka hei
+4/2/26, 3:58 PM - +91 96790 09511: Thursday kiska hai ?
+4/2/26, 3:58 PM - +91 70014 81880: Han yehi
+4/2/26, 3:58 PM - +91 70014 81880: Bol do
+4/2/26, 3:58 PM - +91 96790 09511: Ok ok
+4/2/26, 3:58 PM - +91 63931 39374: Big data ka
+4/2/26, 3:58 PM - +91 70995 71167: Bhai wed day combinatorial ka CA hei
+4/2/26, 3:59 PM - +91 70014 81880: Han
+4/2/26, 3:59 PM - +91 70995 71167: Uske liye padhne ke liye time nahi chhiye kya
+4/2/26, 3:59 PM - +91 63931 39374: Itne din me padhle
+4/2/26, 3:59 PM - +91 96790 09511: Woh saab chodho
+4/2/26, 3:59 PM - +91 70014 81880: Tuesday ko 4 class sehi hei saturday ane se acha
+4/2/26, 3:59 PM - +91 96790 09511: Kya ayega ca mei
+4/2/26, 3:59 PM - +91 96790 09511: Haan yr wahi
+4/2/26, 3:59 PM - +91 96790 09511: Boldiya
+4/2/26, 4:00 PM - +91 63931 39374: Phla badhiya kamm kiya h tumne
+4/2/26, 4:00 PM - +91 96790 09511: Ca mei kya ayega woh bolo na 😆😆
+4/2/26, 4:00 PM - +91 63931 39374: Kiske
+4/2/26, 4:01 PM - +91 96790 09511: Oi 3:20 - 5
+4/2/26, 4:01 PM - +91 96790 09511: Bol rhi maam
+4/2/26, 4:01 PM - +91 63931 39374: Saturday ko
+4/2/26, 4:01 PM - +91 96790 09511: Big data
+4/2/26, 4:01 PM - +91 63931 39374: Exam h
+4/2/26, 4:01 PM - +91 70014 81880: Networking+ operating 
+Combinatorial
+4/2/26, 4:01 PM - +91 96790 09511: Nhi Tuesday 3:20-5
+4/2/26, 4:01 PM - +91 63931 39374: Unit 1 , 2
+4/2/26, 4:01 PM - +91 70014 81880: Dl ho jeyega
+4/2/26, 4:02 PM - +91 70014 81880: Thik he firvi 1 din me ho hayega
+4/2/26, 4:02 PM - +91 63931 39374: 12 se 3 bje tk kya krenge
+4/2/26, 4:02 PM - +91 96790 09511: Isse achha parso hi theek hai
+4/2/26, 4:02 PM - +91 96790 09511: Free nhi hai
+4/2/26, 4:02 PM - Satyam Pep: Commands jo mam ne padhaya h vahi ayega
+4/2/26, 4:02 PM - +91 63931 39374: Mam ko bol kisi aur din rkhle
+4/2/26, 4:02 PM - +91 63931 39374: Ek ek
+4/2/26, 4:02 PM - +91 97096 78176: Wahi thik hoga nahi to next Saturday ko meri improvement ki exam hai
+4/2/26, 4:02 PM - +91 96790 09511: Monday ko puchu ?
+4/2/26, 4:02 PM - +91 98559 77672: Saturday he theek hai   jiske exam aur dl hai vo dl le lena
+4/2/26, 4:03 PM - +91 96790 09511: Wahi toh
+4/2/26, 4:03 PM - +91 63931 39374: Bhai tum apna exam dekh rhe ho aur jiska iss Saturday ko exam h uska
+4/2/26, 4:03 PM - +91 96790 09511: Aur jinka pep hai ek ghnta
+4/2/26, 4:03 PM - +91 97096 78176: Wo apne teacher ko bol kar dl ya attandance le lenge
+4/2/26, 4:03 PM - +91 96790 09511: Ayeee maaam ko add kr rhi hu whatsapp group pe
+4/2/26, 4:03 PM - +91 96790 09511: Ruko
+4/2/26, 4:03 PM - +91 96790 09511: Shant
+4/2/26, 4:04 PM - +91 63931 39374: Kro kro
+4/2/26, 4:04 PM - +91 76204 86926: Kro
+4/2/26, 4:04 PM - ~ Sezelle added +91 70516 73376
+4/2/26, 4:04 PM - +91 63931 39374: Namste mam🙏
+4/2/26, 4:04 PM - +91 76204 86926: 🙏
+4/2/26, 4:05 PM - +91 92629 79762: Mam exempt kr do yhi best option dikh raha hai
+4/2/26, 4:05 PM - +91 63931 39374: Phli barr tumne badhiya baat boli h bhai
+4/2/26, 4:06 PM - +91 70995 71167: Bhai pep ka class hei bohot logo ka
+4/2/26, 4:06 PM - +91 70995 71167: Uske sath time collapse kar raha hei
+4/2/26, 4:06 PM - +91 70516 73376: Not possible
+4/2/26, 4:07 PM - +91 70516 73376: Class mai kissi ne b issue raise nai kara
+4/2/26, 4:07 PM - +91 63931 39374: Apne bola hi nhi
+4/2/26, 4:07 PM - +91 92629 79762: Mam pep class idhar do din pehle lagi hai
+4/2/26, 4:07 PM - +91 96790 09511: Group pr bheja hua hai
+4/2/26, 4:07 PM - +91 96790 09511: Haan maam
+4/2/26, 4:07 PM - +91 63931 39374: Week days me rkhlo mam
+4/2/26, 4:08 PM - +91 70516 73376: Beta maine last wk hi inform kara h makeup class
+4/2/26, 4:08 PM - +91 96790 09511: Pep classes achanak se laga diya maam
+4/2/26, 4:08 PM - +91 63931 39374: Wo to apne le liya tha n
+4/2/26, 4:08 PM - +91 70516 73376: Aaj class mai kue nai bola
+4/2/26, 4:08 PM - +91 63931 39374: Ab bol rhe h mam
+4/2/26, 4:09 PM - +91 92629 79762: Aaj absent tha mam
+4/2/26, 4:09 PM - +91 96790 09511: Yaa fir 9:30 se saturday 9:30-11 ?
+4/2/26, 4:09 PM - +91 70516 73376: Beta maine pehle hi kha tha 2 din makeup classes honge 28 march n 4th april
+4/2/26, 4:09 PM - +91 63931 39374: Saturday ka option available nhi h
+4/2/26, 4:09 PM - +91 63931 39374: Koi n mam weekdays me rkhlo
+4/2/26, 4:10 PM - +91 70014 81880: Tuesday
+4/2/26, 4:10 PM - +91 70014 81880: Yes mam
+4/2/26, 4:10 PM - +91 98559 77672: Nahi
+4/2/26, 4:10 PM - +91 70516 73376: Ye koi time h bolne ka 
+Class mai kissi ne b issue raise nai kara
+4/2/26, 4:10 PM - +91 98559 77672: Tuesday break interview extra ho jayega
+4/2/26, 4:11 PM - +91 70516 73376: Beta ap saare apne bare mai soch rhe ho 
+Mai b free honi chahye na
+4/2/26, 4:11 PM - +91 63931 39374: Mama ek kaam kro apna slot bhejo
+4/2/26, 4:11 PM - +91 63931 39374: Hmm sare decide krke btate h
+4/2/26, 4:12 PM - +91 70516 73376: Tuesday mera free slot h bass
+4/2/26, 4:12 PM - +91 70516 73376: 3:20 onwards
+4/2/26, 4:12 PM - Satyam Pep: I guess we don't have much options
+4/2/26, 4:12 PM - +91 63931 39374: Nhi bhai we have
+4/2/26, 4:13 PM - +91 98559 77672: Bhai Tuesday se vadeya Saturday hai
+4/2/26, 4:13 PM - +91 63931 39374: Nhi
+4/2/26, 4:13 PM - +91 96790 09511: Exactly
+4/2/26, 4:13 PM - +91 63931 39374: Exams h
+4/2/26, 4:13 PM - +91 96790 09511: Saturday ko 9:30 se 11 taak kare toh ?
+4/2/26, 4:13 PM - +91 98559 77672: Theek hai
+4/2/26, 4:13 PM - +91 96790 09511: Exams ka dl mil jayega tension not
+4/2/26, 4:13 PM - +91 63931 39374: Are mujhe pdhna h
+4/2/26, 4:14 PM - +91 63931 39374: Dl kya hota h
+4/2/26, 4:14 PM - +91 96790 09511: Hn woh vi hai
+4/2/26, 4:14 PM - Satyam Pep: I am having my RPL exam
+4/2/26, 4:14 PM - +91 78767 09483: Mam saturday ko jis time par h uspe hi rehne do
+4/2/26, 4:14 PM - +91 63931 39374: Me to
+4/2/26, 4:14 PM - +91 78767 09483: Bhai dl milega
+4/2/26, 4:14 PM - +91 70516 73376: Final tuesday 3:20 -5 pm
+4/2/26, 4:14 PM - +91 63931 39374: Okk mam
+4/2/26, 4:14 PM - +91 70014 81880: Done mam
+4/2/26, 4:14 PM - +91 96790 09511: Okay maam
+4/2/26, 4:15 PM - +91 63931 39374: Appki baat salakho pe 🫡
+4/2/26, 4:15 PM - +91 98559 77672: Bhai Wednesday ko bhe ca hai
+4/2/26, 4:15 PM - +91 98559 77672: Uska bhe padna hai
+4/2/26, 4:15 PM - +91 96790 09511: Array woh hojayega chill
+4/2/26, 4:15 PM - +91 98777 51979: Yes mam
+4/2/26, 4:16 PM - Satyam Pep: I don't think it is salakho ho pr 😅
+4/2/26, 4:16 PM - +91 73028 48271: 3 ghante ka break hai beech main phad lena lib main jakar
+4/2/26, 4:16 PM - +91 92629 79762: Kiya chez ka ca hai
+4/2/26, 4:16 PM - +91 63931 39374: Badhiya central mess jake khana khayenge aaram se
+4/2/26, 4:16 PM - +91 98559 77672: Bhai nahi hota lib mea padh
+4/2/26, 4:16 PM - +91 98777 51979: Hnn
+4/2/26, 4:16 PM - +91 70516 73376: Beta mere liye possible nai h baar baar change karwana
+4/2/26, 4:17 PM - +91 63931 39374: Mam apko kuch nhi Krna ab
+4/2/26, 4:17 PM - +91 76204 86926: Aap jo bolo mam
+4/2/26, 4:17 PM - +91 98559 77672: Saturday theek hai
+4/2/26, 4:17 PM - +91 63931 39374: Tuesday final
+4/2/26, 4:17 PM - +91 70014 81880: Tuesday done
+4/2/26, 4:17 PM - +91 70014 81880: Mam
+4/2/26, 4:17 PM - +91 92190 40025: Polling kar lo yrr Tuesday aur Saturday ka
+4/2/26, 4:17 PM - +91 96790 09511: 
+4/2/26, 4:17 PM - +91 70014 81880: 1 week he uska avi vi
+4/2/26, 4:17 PM - +91 63931 39374: Bhai election chl rha h idhar
+4/2/26, 4:17 PM - +91 92629 79762: Are yaar 3option bhi rakho
+4/2/26, 4:18 PM - +91 82193 65945: Tu room pe hi reh
+4/2/26, 4:18 PM - +91 73028 48271: Saturday is winning 💪🏻
+4/2/26, 4:18 PM - +91 63931 39374: Kripya ye htaye
+4/2/26, 4:18 PM - +91 92629 79762: 😂😂
+4/2/26, 4:18 PM - +91 63931 39374: Bhai sare so rhe h
+4/2/26, 4:19 PM - +91 92629 79762: Bhai bol kab class hona chaiye apna vote tmko dunga
+4/2/26, 4:19 PM - +91 73028 48271: @⁨~Sezelle⁩ pin kar de poll ko
+4/2/26, 4:19 PM - ~ Sezelle pinned a message
+4/2/26, 4:20 PM - +91 82193 65945: Saturday jo time hai vhi shi hai
+4/2/26, 4:20 PM - +91 63931 39374: 😁
+4/2/26, 4:20 PM - +91 82193 65945: Saturday kr
+4/2/26, 4:20 PM - +91 96790 09511: Aur pep class
+4/2/26, 4:20 PM - +91 92629 79762: Mera kl hai
+4/2/26, 4:21 PM - ~ SUSOVHAN KUNDU pinned a message
+4/2/26, 4:21 PM - +91 92190 40025: Kisi ko kuch n kuch sacrifice karna padega vaise bhi kuch log class nhi ate h
+4/2/26, 4:21 PM - +91 86994 22479: <Media omitted>
+4/2/26, 4:21 PM - +91 82193 65945: <Media omitted>
+4/2/26, 4:21 PM - Satyam Pep: Am I the only one who is not having the PEP class?
+4/2/26, 4:21 PM - +91 92629 79762: Are ek din absent kr lena
+4/2/26, 4:21 PM - +91 96790 09511: Wahi isiliye mereko jo vi chalega
+4/2/26, 4:21 PM - +91 86994 22479: bhai mare bh 11 to 1 class hai
+4/2/26, 4:21 PM - +91 86994 22479: pls timing change krva doh 🙏🏻
+4/2/26, 4:21 PM - +91 70995 71167: Ma‘am Saturday kou 9:30 se ek laga lou aur Tuesday kou ek laga  lou agar saab raji huwe toh
+4/2/26, 4:22 PM - +91 63931 39374: Bhai bhut ghatiya idea h
+4/2/26, 4:22 PM - +91 92190 40025: Exactly 😂
+4/2/26, 4:22 PM - +91 70014 81880: Exactly
+4/2/26, 4:22 PM - +91 70516 73376: No more discussions 
+Final tuesday 3:20 onwards
+4/2/26, 4:22 PM - +91 92629 79762: Mam Saturday
+4/2/26, 4:22 PM - +91 92629 79762: Ma
+4/2/26, 4:22 PM - +91 92629 79762: Mam
+4/2/26, 4:23 PM - ~ SUSOVHAN KUNDU pinned a message
+4/2/26, 4:23 PM - +91 92629 79762: 😭
+4/2/26, 4:23 PM - +91 92190 40025: Mam but polling me Saturday jeet rha h 😂
+4/2/26, 4:23 PM - +91 63931 39374: Konsi polling
+4/2/26, 4:23 PM - +91 73028 48271: This message was deleted
+4/2/26, 4:23 PM - +91 70516 73376: Behave like a studnet
+4/2/26, 4:23 PM - +91 92190 40025: Are bhai 😂
+4/2/26, 4:24 PM - +91 73028 48271: Sorry mam
+4/2/26, 4:24 PM - +91 92629 79762: Mam aaise bhi pep class ka attendance overall me add hota hai absent bhi ho jaayeva to dikkat nahi hai
+4/2/26, 4:24 PM - +91 97096 78176: And online hoti hai usko on kar ke chor do
+4/2/26, 4:25 PM - +91 70516 73376: Mujhe kue confuse kr rhe ho 
+Koi saturday bata rha koi tuesday
+4/2/26, 4:25 PM - +91 92629 79762: Saturday mam
+4/2/26, 4:25 PM - +91 92190 40025: Mam app polling kar lo
+4/2/26, 4:25 PM - +91 70995 71167: Ma‘am saturday kou hi
+4/2/26, 4:25 PM - +91 70014 81880: Tuesday mam
+4/2/26, 4:25 PM - +91 70995 71167: Fix kar hou fir
+4/2/26, 4:25 PM - +91 70516 73376: This message was deleted
+4/2/26, 4:25 PM - +91 63931 39374: No more discussions 
+Final tuesday 3:20 onwards
+4/2/26, 4:26 PM - +91 97096 78176: Ma'am high voting Saturday ko hai usi din thik hai
+4/2/26, 4:26 PM - +91 98559 77672: This message was deleted
+4/2/26, 4:26 PM - +91 92629 79762: Abki baar 300 paar
+4/2/26, 4:27 PM - +91 63931 39374: Mam ye abhi Saturday wale 8 log active h Tuesday wale so rhe h
+4/2/26, 4:27 PM - +91 98559 77672: Sone de unhe
+4/2/26, 4:27 PM - +91 92629 79762: Aur Saturday wale Saturday ko soyege😂😂😂😂
+4/2/26, 4:27 PM - +91 96790 09511: @⁨Shiva MB⁩ @⁨~Ramya⁩
+4/2/26, 4:27 PM - +91 63931 39374: Aap Tuesday wala final krdo
+4/2/26, 4:27 PM - +91 63931 39374: Saturday ko exams h mam
+4/2/26, 4:27 PM - +91 90052 04778: Dl milega
+4/2/26, 4:28 PM - +91 90052 04778: Mam Saturday mam
+4/2/26, 4:28 PM - +91 98559 77672: Nahi mam Saturday voting mea jeeta hai
+4/2/26, 4:28 PM - +91 63931 39374: Election h ye
+4/2/26, 4:28 PM - +91 98559 77672: Hn
+4/2/26, 4:28 PM - +91 70516 73376: 1 b bacche ko issue h saturday ko
+Then i have to reschedule the makeup class
+4/2/26, 4:29 PM - +91 63931 39374: H mam
+4/2/26, 4:29 PM - +91 92629 79762: Kisi ko issue nahi hai
+4/2/26, 4:29 PM - +91 92629 79762: Mam
+4/2/26, 4:29 PM - +91 97096 78176: No ma'am kisi ko issue nahi hai
+4/2/26, 4:29 PM - +91 63931 39374: Exam h
+4/2/26, 4:29 PM - +91 98559 77672: No issue mam
+4/2/26, 4:29 PM - +91 97096 78176: Dl mil jayegi uski
+4/2/26, 4:29 PM - +91 92629 79762: Are yaar dl mil hi jaayega to exam ka kiya
+4/2/26, 4:29 PM - +91 98559 77672: Rehne de exam dl.le lena
+4/2/26, 4:29 PM - +91 63931 39374: Pdhna h mujhe ab bta
+4/2/26, 4:29 PM - +91 92629 79762: Padhiye krna hai usko class me
+4/2/26, 4:29 PM - +91 98559 77672: Lib mea pad lena
+4/2/26, 4:30 PM - +91 97096 78176: To avi padh lena chahiye
+4/2/26, 4:30 PM - +91 63931 39374: Same kaam tu Tuesday ko krliyo
+4/2/26, 4:30 PM - Satyam Pep: Then you will not be able to schedule it because everyone is having their own issues.
+4/2/26, 4:30 PM - +91 92190 40025: Bhai kisi din bhi lga lo bs pin kar dena
+4/2/26, 4:31 PM - +91 96790 09511: Same
+4/2/26, 4:31 PM - +91 63931 39374: Ab koi reply nhi krega
+4/2/26, 4:31 PM - +91 63931 39374: Mam ka ek final message ayega
+4/2/26, 4:32 PM - +91 63931 39374: Usko pin krdena
+4/2/26, 4:35 PM - +91 70516 73376: Tuesday 3:20 -5 pm
+4/2/26, 4:35 PM - ~ Nitin Rai pinned a message
+4/2/26, 5:00 PM - Satyam Pep: I was absent today. Can anyone share the commands mam taught today??
+4/3/26, 9:37 AM - +91 70516 73376: No makeup class tomorrow 
+Due to clash with exam n placement classes
+4/3/26, 9:41 AM - +91 70516 73376: Makeup class will be conducted on 7th april 2026 (Tuesday) from 3:20-5:00 pm
+4/3/26, 9:48 AM - +91 70516 73376: Dear students, 
+This is to inform you that First CA(CA-1) of INT312 will be conducted on 9th April 2026(Thursday).
+
+Syllabus:
+Unit-1
+Unit-2
+Important instructions:
+Bring your fully charged laptops with installation of Hadoop.
+No excuses will be entertained on the day of CA.
+4/6/26, 2:45 PM - +91 97096 78176: <Media omitted>
+4/7/26, 10:40 AM - +91 70516 73376: <Media omitted>
+4/7/26, 10:43 AM - +91 96790 09511: <Media omitted>
+4/7/26, 11:53 AM - +91 87873 09401: <?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+  <property>
+    <name>mapreduce.framework.name</name>
+    <value>yarn</value>
+  </property>
+
+  <property>
+    <name>yarn.app.mapreduce.am.env</name>
+    <value>HADOOP_MAPRED_HOME=C:\path\to\hadoop</value>
+  </property>
+
+  <property>
+    <name>mapreduce.map.env</name>
+    <value>HADOOP_MAPRED_HOME=C:\path\to\hadoop</value>
+  </property>
+
+  <property>
+    <name>mapreduce.reduce.env</name>
+    <value>HADOOP_MAPRED_HOME=C:\path\to\hadoop</value>
+  </property>
+
+</configuration>
+4/7/26, 11:53 AM - +91 87873 09401: replace C:\path\to\hadoop with your actual Hadoop folder path.
+4/7/26, 12:03 PM - +91 89192 54510: <configuration>
+
+<property>
+  <name>mapreduce.framework.name</name>
+  <value>yarn</value>
+</property>
+
+<property>
+  <name>yarn.app.mapreduce.am.env</name>
+  <value>HADOOP_MAPRED_HOME=C:/hadoopsetup/hadoop-3.2.4</value>
+</property>
+
+<property>
+  <name>mapreduce.map.env</name>
+  <value>HADOOP_MAPRED_HOME=C:/hadoopsetup/hadoop-3.2.4</value>
+</property>
+
+<property>
+  <name>mapreduce.reduce.env</name>
+  <value>HADOOP_MAPRED_HOME=C:/hadoopsetup/hadoop-3.2.4</value>
+</property>
+
+</configuration>
+4/7/26, 12:14 PM - ~ Zahra pinned a message
+4/7/26, 1:17 PM - ~ Sai Vardhan added +91 93460 44534
+4/7/26, 3:14 PM - +91 70516 73376: 28-301
+4/7/26, 3:15 PM - +91 70516 73376: Makeup class shifted to 28-301
+4/7/26, 4:05 PM - +91 70516 73376: Makeup class shifted in 28-302 <This message was edited>
+4/7/26, 4:06 PM - ~ Thatipamula Manikanta added +91 97055 14551
+4/7/26, 4:06 PM - +91 70516 73376: Makeup class shifted in 28-302
+4/8/26, 10:38 AM - +91 70516 73376: <Media omitted>
+4/8/26, 6:27 PM - +91 73028 48271: <Media omitted>
+4/8/26, 6:29 PM - +91 73028 48271: 👇🏻
+4/8/26, 6:30 PM - +91 73028 48271: 
+4/8/26, 6:30 PM - +91 73028 48271: <Media omitted>
+4/8/26, 6:30 PM - +91 73028 48271: <Media omitted>
+4/8/26, 6:30 PM - +91 73028 48271: <Media omitted>
+4/8/26, 6:30 PM - +91 73028 48271: <Media omitted>
+4/8/26, 8:11 PM - Abhishek 1sem: This message was deleted
+4/8/26, 10:33 PM - +91 96790 09511: Guys kal k CA ka marks distribution kaisa hai
+4/8/26, 10:33 PM - +91 96790 09511: Aur kis form mei hoga
+4/8/26, 10:38 PM - Satyam Pep: I think it will be, writing commands, then practical and viva.
+4/8/26, 10:39 PM - +91 96790 09511: Ok thanks marks distribution ?
+4/8/26, 10:39 PM - Satyam Pep: Not sure about marks distribution. Maybe 50 30 20 for practical, viva and written
+4/8/26, 10:40 PM - +91 96790 09511: Writing commands in terminal or in sheet first
+4/8/26, 10:40 PM - Satyam Pep: First on paper then have to perform that on command line
+4/8/26, 11:46 PM - +91 78887 04823: This message was deleted
+4/8/26, 11:46 PM - +91 78887 04823: This message was deleted
+4/8/26, 11:46 PM - +91 78887 04823: This message was deleted
+4/8/26, 11:46 PM - +91 78887 04823: This message was deleted
+4/9/26, 8:55 AM - Satyam Pep: The getmerge command i had written was wrong. getmerge will merge all the files in the directory into single file in local system. And it accept only two arguments; directory and address on local system <This message was edited>
+4/9/26, 8:55 AM - Satyam Pep: <Media omitted>
+4/9/26, 8:55 AM - Satyam Pep: <Media omitted>
+4/9/26, 12:04 PM - +91 70516 73376: Dear all
+Upload file by 12:30 PM
+4/9/26, 12:06 PM - +91 78767 09483: Mam cabin number ?
+4/9/26, 12:06 PM - +91 98559 77672: Mam class is going on
+4/9/26, 12:07 PM - +91 62042 57301: We have classes till 12:50
+4/9/26, 12:07 PM - +91 70516 73376: 28-203-7
+4/9/26, 12:07 PM - +91 96790 09511: Maam class
+4/9/26, 12:08 PM - +91 96790 09511: Hai
+4/9/26, 12:20 PM - Shiva MB: Roll no 46 kiska hai bigdata ke alawa ?
+4/9/26, 12:21 PM - +91 90302 44529: 51
+4/9/26, 12:36 PM - +91 70516 73376: Upload the file ASAP
+4/9/26, 12:39 PM - +91 70516 73376: 3
+7
+9
+14
+15
+20
+21
+22
+23
+24
+
+32
+34
+49
+54
+58
+62
+65
+66
+67
+4/9/26, 12:39 PM - +91 70516 73376: Pending implementation
+4/9/26, 12:42 PM - +91 93460 44534: Roll no 24 i already uploaded file mam
+4/9/26, 12:43 PM - +91 89305 77684: Uploaded mam roll number 32
+4/9/26, 12:45 PM - +91 90535 51470: 64 rollno.
+4/9/26, 12:45 PM - +91 90535 51470: Kisna show kya hh cabin ma <This message was edited>
+4/9/26, 12:53 PM - +91 93460 48291: Up loaded mam 67
+4/9/26, 12:57 PM - ....: 50 uploaded allready mam
+4/9/26, 12:57 PM - Shiva MB: 19 already done mam
+4/9/26, 12:58 PM - +91 62068 07349: Who is roll 64
+4/9/26, 1:00 PM - +91 90535 51470: This message was deleted
+4/9/26, 1:00 PM - +91 90535 51470: Uday
+4/9/26, 1:04 PM - +91 90535 51470: Me,  someone showed his implementation in place of me
+4/9/26, 1:05 PM - +91 90535 51470: Mam asking about this
+4/9/26, 1:08 PM - +91 98559 77672: Mam pdf uploaded roll number 42 <This message was edited>
+4/9/26, 1:08 PM - +91 78890 46878: 53 uploaded mam
+4/9/26, 1:26 PM - +91 79733 27885: Ma'am may notepad wala upload kar du
+4/9/26, 3:37 PM - +91 70516 73376: Dear students  whose execution hasn’t been checked yet, please come to my cabin till 4:00 pm
+4/9/26, 3:40 PM - +91 70516 73376: After 4:00 ill not check implementation
+4/14/26, 12:08 PM - +91 70516 73376: Cabin no 
+28-203-7
+4/14/26, 12:08 PM - +91 70516 73376: I’ll take viva till 12:20 pm
+4/16/26, 2:26 PM - +91 89305 77684: https://docs.google.com/forms/d/e/1FAIpQLSc0XyYaAcSAnlshUYXfHlGqBhL0lHiLZUemtleKQf0vBbJ1Ww/viewform
+4/16/26, 3:22 PM - +91 70516 73376: <Media omitted>
+4/16/26, 3:22 PM - +91 70516 73376: yarn-site.xml->            
+```<configuration>
+
+<!-- Site specific YARN configuration properties -->
+
+<property>
+    <name>yarn.nodemanager.vmem-check-enabled</name>
+    <value>false</value>
+</property>
+<property>
+    <name>yarn.nodemanager.pmem-check-enabled</name>
+    <value>false</value>
+</property>
+<property>
+    <name>yarn.nodemanager.env-whitelist</name>
+    <value>JAVA_HOME,HADOOP_COMMON_HOME,HADOOP_HDFS_HOME,HADOOP_CONF_DIR,CLASSPATH_PREPEND_DISTCACHE,HADOOP_YARN_HOME,HADOOP_MAPRED_HOME</value>
+</property>
+
+<property>
+    <name>yarn.nodemanager.disk-health-checker.max-disk-utilization-per-disk-percentage</name>
+    <value>99.0</value>
+</property>
+<property>
+    <name>yarn.nodemanager.aux-services</name>
+    <value>mapreduce_shuffle</value>
+</property>
+<property>
+    <name>yarn.nodemanager.aux-services.mapreduce_shuffle.class</name>
+    <value>org.apache.hadoop.mapred.ShuffleHandler</value>
+</property>
+</configuration>
+```
+4/16/26, 3:22 PM - +91 70516 73376: mapred-site.xml->
+```<configuration>
+<property>
+    <name>mapreduce.framework.name</name>
+    <value>yarn</value>
+</property>
+<property>
+    <name>mapreduce.application.classpath</name>
+    <value>%HADOOP_HOME%/share/hadoop/mapreduce/*,%HADOOP_HOME%/share/hadoop/mapreduce/lib/*,%HADOOP_HOME%/share/hadoop/common/*,%HADOOP_HOME%/share/hadoop/common/lib/*,%HADOOP_HOME%/share/hadoop/yarn/*,%HADOOP_HOME%/share/hadoop/yarn/lib/*,%HADOOP_HOME%/share/hadoop/hdfs/*,%HADOOP_HOME%/share/hadoop/hdfs/lib/*</value>
+</property>
+<property>
+    <name>yarn.app.mapreduce.am.env</name>
+    <value>HADOOP_MAPRED_HOME=%HADOOP_HOME%</value>
+</property>
+<property>
+    <name>mapreduce.map.env</name>
+    <value>HADOOP_MAPRED_HOME=%HADOOP_HOME%</value>
+</property>
+<property>
+    <name>mapreduce.reduce.env</name>
+    <value>HADOOP_MAPRED_HOME=%HADOOP_HOME%</value>
+</property>
+
+</configuration>```
+4/16/26, 3:22 PM - +91 70516 73376: If your Hadoop jar command is getting stuck, you can try this
+4/20/26, 8:57 AM - +91 70516 73376: https://www.youtube.com/playlist?list=PLeUBsMTwZBi1gNK_q0SWy0hTCzhc8zRRU
+4/21/26, 2:12 PM - +91 76589 89205: Ma’am when you have   free time I would like to give viva.
+4/23/26, 10:24 AM - +91 70516 73376: <Media omitted>
+4/23/26, 11:09 AM - +91 70516 73376: <Media omitted>
+4/23/26, 11:17 AM - +91 70516 73376: <Media omitted>
+4/23/26, 11:31 AM - Adarsh Clg: https://drive.google.com/file/d/1OJWP4YXx8uRsjY_a-MnNyFORChZqBArS/view?usp=sharing
+4/23/26, 11:42 AM - +91 95984 28803: <Media omitted>
+4/23/26, 11:42 AM - +91 95984 28803: This message was deleted
+4/23/26, 11:42 AM - +91 89305 77684: cheque leja
+4/23/26, 11:42 AM - +91 97096 78176: draft du
+4/23/26, 11:43 AM - +91 63931 39374: ruk ja bhai mai bhjeta hu paise fir cyber marr dunga
+4/23/26, 11:43 AM - +91 99055 92653: This message was deleted
+4/28/26, 10:56 AM - +91 70516 73376: HIVE_HOME
+4/28/26, 10:56 AM - +91 70516 73376: DERBY_HOME
+4/28/26, 10:56 AM - +91 70516 73376: HIVE_LIB
+4/28/26, 10:56 AM - +91 70516 73376: HIVE_BIN
+4/28/26, 10:56 AM - +91 70516 73376: HADOOP_USER_CLASSPATH_FIRST: true
+4/28/26, 10:57 AM - +91 70516 73376: StartNetworkServer -h 0.0.0.0
+4/28/26, 10:57 AM - +91 70516 73376: hive --service schematool -dbType derby -initSchema
+4/28/26, 11:03 AM - +91 70516 73376: <Media omitted>
+4/28/26, 11:30 AM - +91 70516 73376: https://youtube.com/playlist?list=PLSXk7uAxwjtb9gfr6QZ5YDybhNbsaVF3q&si=437BAds10z6wORdA
+4/28/26, 11:30 AM - +91 70516 73376: https://youtube.com/playlist?list=PLSXk7uAxwjtb9gfr6QZ5YDybhNbsaVF3q&si=437BAds10z6wORdA
+4/30/26, 3:00 PM - Shiva MB: <Media omitted>
+5/1/26, 9:59 PM - ~ Zahra changed the group name from "K23RQ big data" to "RQ Big Data"
+5/2/26, 1:43 PM - +91 70516 73376: https://youtu.be/RDCldO2KKRA?si=CgdxMdJA8Q8mZxK0
+5/2/26, 1:43 PM - +91 70516 73376: <Media omitted>
+5/2/26, 1:43 PM - +91 70516 73376: https://www.youtube.com/playlist?list=PLSXk7uAxwjtb9gfr6QZ5YDybhNbsaVF3q
+For Hive
+5/2/26, 1:43 PM - +91 70516 73376: https://www.youtube.com/playlist?list=PLSXk7uAxwjtZy8Uk40AePflPHP1cod3rO
+For Hbase
+5/2/26, 1:43 PM - +91 70516 73376: https://www.youtube.com/playlist?list=PLSXk7uAxwjtb1RwzmjArBBU3iWFRHbtzX
+For Hadoop
+5/2/26, 1:44 PM - +91 70516 73376: For Cassandra
+5/2/26, 2:03 PM - +91 70516 73376: https://www.youtube.com/playlist?list=PLeUBsMTwZBi1gNK_q0SWy0hTCzhc8zRRU Hadoop
+5/2/26, 2:03 PM - +91 70516 73376: https://www.youtube.com/playlist?list=PLeUBsMTwZBi154WfFvbG5lErfDxafkTtI
+Hive
+5/2/26, 2:03 PM - +91 70516 73376: https://www.youtube.com/playlist?list=PLeUBsMTwZBi2du2xyMuzZJnxqsjSH69H7
+Hbase
+5/2/26, 3:19 PM - +91 98559 77672: any one having ca1 big data question paper can msg me
+5/2/26, 3:53 PM - +91 98559 77672: ???
+5/5/26, 10:41 AM - Abhishek 1sem: This message was deleted
+5/5/26, 11:44 AM - +91 90535 51470: <Media omitted>
+5/5/26, 1:31 PM - +91 70516 73376: Dear Students,
+This is to inform you all that *CA2 for INT 312(Big Data)* will be conducted on *14th May 2026 (Thursday).*
+Syllabus: *Unit 3 -Unit 5( (till last topic covered).*
+Instructions: Bring your fully charged laptops with installation of *Hadoop, Hive, Eclipse, and Hbase.*
+5/5/26, 9:54 PM - +91 95766 32090: <Media omitted>
+5/5/26, 9:56 PM - +91 97096 78176: Thanks a lot for this information
+5/7/26, 9:30 AM - +91 70516 73376: <Media omitted>
+5/7/26, 9:37 AM - +91 70516 73376: <Media omitted>
+5/7/26, 10:23 AM - +91 75440 53845: Roll no 47 on the way
+5/7/26, 12:01 PM - Shiva MB: <Media omitted>
+5/7/26, 4:58 PM - +91 97096 78176: Next week Wednesday 9-10 makeup class of big data .. are you all comfortable with this ??
+5/7/26, 4:59 PM - +91 78767 09483: Yes
+5/7/26, 5:00 PM - +91 70995 71167: But in the class 19th was the suitable date
+5/7/26, 5:00 PM - +91 63931 39374: Bilkul malik
+5/7/26, 5:00 PM - +91 97096 78176: Us time me kuch student ki clash ho rahi hai class
+5/7/26, 5:00 PM - +91 70516 73376: Im not able to punch 
+Ums is showing clash
+5/7/26, 5:02 PM - +91 70995 71167: Ma‘am if possible take it after CA2 day
+5/7/26, 5:05 PM - +91 70516 73376: Beta im not free
+5/7/26, 5:06 PM - +91 70516 73376: Im having exam duties
+5/7/26, 5:06 PM - +91 75440 53845: Mam isme laga do , ye suitable hai
+5/7/26, 5:07 PM - +91 70014 81880: But only 1 hour it is
+5/7/26, 5:07 PM - +91 70516 73376: Done
+5/7/26, 5:07 PM - +91 70516 73376: Yes
+5/7/26, 5:07 PM - +91 70014 81880: Okay mam
+5/7/26, 5:07 PM - +91 70516 73376: 1 hour tuesday 12-1
+5/7/26, 5:08 PM - +91 77177 23693: No
+5/7/26, 5:08 PM - +91 77177 23693: Already makeup assigned
+5/7/26, 5:08 PM - +91 70516 73376: Why
+5/7/26, 5:08 PM - +91 77177 23693: This message was deleted
+5/7/26, 5:08 PM - +91 70516 73376: Kya
+5/7/26, 5:08 PM - +91 70516 73376: Makeup timing? And date
+5/7/26, 5:09 PM - +91 77177 23693: <Media omitted>
+5/7/26, 5:09 PM - +91 70014 81880: Tumhara konsa hei o bhejo
+5/7/26, 5:09 PM - +91 70516 73376: Time?
+5/7/26, 5:09 PM - +91 70014 81880: Usdin tumhara koi class clash he keya?
+5/7/26, 5:10 PM - +91 77177 23693: <Media omitted>
+5/7/26, 5:10 PM - +91 77177 23693: 9:20 pe soft skills ka hai makeup
+5/7/26, 5:10 PM - +91 70516 73376: No is for Tuesday or Wednesday? <This message was edited>
+5/7/26, 5:11 PM - +91 77177 23693: Wednesday ko hai makeup
+5/7/26, 5:11 PM - +91 77177 23693: 13 ko
+5/7/26, 5:11 PM - +91 70014 81880: Mam tuesday 9-10 and 12-1 is it will be ok
+5/7/26, 5:11 PM - +91 70014 81880: ?
+5/7/26, 5:12 PM - +91 70516 73376: Im free
+5/7/26, 5:12 PM - +91 77177 23693: Typing mistake
+5/7/26, 5:12 PM - +91 77177 23693: Sahi time hai Ma'am
+5/7/26, 5:13 PM - +91 75440 53845: Haa to yahi final karo Mam if it is not clashing with anyone’s pep
+5/7/26, 5:13 PM - +91 70014 81880: Yes mam then 12 ko 9-10 and 12-1
+5/7/26, 5:14 PM - +91 70014 81880: May be nehi hoga pep 1 se pehele kisika nehi he sayed
+5/7/26, 5:14 PM - +91 92190 40025: Bro we have class from 9-10
+5/7/26, 5:14 PM - +91 92190 40025: On Tuesdays
+5/7/26, 5:16 PM - +91 70516 73376: Share time table
+5/7/26, 5:17 PM - +91 92190 40025: <Media omitted>
+5/7/26, 5:18 PM - +91 92190 40025: Don't worry mam I can sacrifice one pea class
+5/7/26, 5:18 PM - +91 70014 81880: Mam then make 9-10 and 12-1 final
+5/7/26, 5:19 PM - +91 70516 73376: Ill check
+5/7/26, 5:19 PM - +91 70014 81880: Okay mam
+5/7/26, 5:26 PM - +91 92629 79762: Mam fir kuch naya download krna hai kiya
+5/7/26, 5:48 PM - +91 70516 73376: This message was deleted
+5/7/26, 5:49 PM - +91 75440 53845: Ok Mam
+5/7/26, 5:49 PM - +91 70516 73376: This message was deleted
+5/7/26, 5:50 PM - +91 95766 32090: No ma'am
+5/7/26, 6:00 PM - +91 97096 78176: Anyone having placement class from 12-1 on Tuesday  12th May and 19th may ??
+5/7/26, 6:13 PM - +91 70516 73376: Dear students ,
+Those who have class on 12th may from 3:20 -5:00 kindly share your time table <This message was edited>
+5/7/26, 6:16 PM - +91 70516 73376: Share ASAP
+5/7/26, 6:17 PM - +91 95697 91831: <Media omitted>
+5/11/26, 3:29 PM - +91 70516 73376: Dear students,
+Recoup CA will be conducted on *19th May 2026 (Tuesday)*
+*Syllabus: unit 1 - unit 5 (till last topic covered).*
+Venue and Time will be shared soon.
+ Students who have registered for recoup are eligible for recoup CA.
+5/11/26, 4:05 PM - Adarsh Clg pinned a message
+5/11/26, 8:17 PM - Satyam Pep: Mam are we having makeup class tomorrow or not?.
+5/11/26, 8:19 PM - +91 70516 73376: No
+5/12/26, 10:23 AM - +91 75440 53845: 47 on the way
+5/12/26, 10:23 AM - +91 62068 07349: This message was deleted
+5/12/26, 10:24 AM - +91 95697 91831: And 57
+5/12/26, 10:24 AM - +91 97096 78176: This message was deleted
+5/12/26, 10:26 AM - +91 86994 22479: 52 on the way
+5/12/26, 2:18 PM - +91 98559 77672: This message was deleted
+5/12/26, 2:18 PM - +91 98559 77672: This message was deleted
+5/12/26, 2:18 PM - +91 98559 77672: This message was deleted
+5/12/26, 8:23 PM - +91 92629 79762: Bhaii bhej do koii kuch agar notes hai to..
+5/12/26, 8:53 PM - +91 70995 71167: <Media omitted>
+5/12/26, 9:42 PM - +91 70516 73376: <Media omitted>
+5/12/26, 9:42 PM - +91 70516 73376: <Media omitted>
+5/12/26, 9:49 PM - +91 92190 40025: Thank u mam
+5/12/26, 10:07 PM - +91 70516 73376: <Media omitted>
+5/12/26, 10:08 PM - +91 70516 73376: <Media omitted>
+5/12/26, 10:19 PM - +91 97096 78176: Thank you ma'am...
